@@ -1,7 +1,5 @@
 # GestureChef - Smart Recipe Companion 🍳👋  
 
-![GestureChef Demo](https://img.shields.io/badge/Demo-Instructables-blue)  
-
 In today's fast-paced world, we all struggle with one daily question "What should I cook today?" With endless options and limited time, choosing a meal can often be more frustrating than cooking itself! But what if your kitchen could suggest the perfect dish in real-time, based on the time of day?
 
 Introducing the Gesture-Controlled Kitchen Guide, an innovative touch-free cooking assistant designed to make meal selection effortless. Whether it's breakfast, brunch, lunch, snacks, dinner, or even one of your sneaky midnight cravings, this smart device instantly suggests delicious recipes suited to the moment, so you never have to second-guess your next meal again.
