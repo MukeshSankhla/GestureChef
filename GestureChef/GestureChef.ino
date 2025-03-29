@@ -1,3 +1,10 @@
+/*
+Project: GestureChef
+Author: Mukesh Sankhla
+Website: https://www.makerbrains.com
+GitHub: https://github.com/MukeshSankhla
+*/
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <time.h>
